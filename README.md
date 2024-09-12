@@ -5,8 +5,6 @@ Python code designed to be run in ArcGIS OnLine Notebook
 This allows users to import Quality and Outcomes Framework (QoF) data from PHE FingerTips (Open Source Data) and publish it as a Web Map Service.
 
 It carries out the following actions in the following order
-
-##QoF CSV Ingestion file created by Donald Maruta - 17 Apr 24  
  - Connect to AGOL  
  - Required Modules
  - This creates a unique date time code for trouble shooting
